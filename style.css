@@ -5,10 +5,20 @@
     font-weight: 700;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-p {
- color: black;
- font-size: 100px;
- text-align: center;
- font-weight: 700;
- font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
+.links {
+    color: black;
+    font-size: 75px;
+    text-align: center;
+    font-weight: 700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   
+
+    p {
+    color: black;
+    font-size: 75px;
+    text-align: center;
+    font-weight: 700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   
