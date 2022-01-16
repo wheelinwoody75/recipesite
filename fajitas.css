@@ -1,6 +1,19 @@
-
-.ingredients,
-.preparation {
-    font-size: 30px;
+.fajitas {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.subtitle {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+    
 }
 
+
+li {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    margin-left: auto;
+}
